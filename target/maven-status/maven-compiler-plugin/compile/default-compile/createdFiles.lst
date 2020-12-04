@@ -1,0 +1,12 @@
+com/ashish/practice/proxydesign/ProxyPatternRunner.class
+com/ashish/practice/proxydesign/RealImage.class
+com/ashish/practice/proxydesign/ProxyImage.class
+com/ashish/practice/factorydesign/Circle.class
+com/ashish/practice/factorydesign/Rectangle.class
+com/ashish/practice/factorydesign/ShapeFactory.class
+com/ashish/practice/factorydesign/FactoryPatternRunner.class
+com/ashish/practice/singletondesign/SingletonRunner.class
+com/ashish/practice/factorydesign/Shape.class
+com/ashish/practice/singletondesign/Singleton.class
+com/ashish/practice/factorydesign/Square.class
+com/ashish/practice/proxydesign/Image.class
